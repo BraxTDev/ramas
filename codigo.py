@@ -1,6 +1,6 @@
 nombre = "sergioo"
 
-apellido = "carmen"
+apellido = "luquita"
 
 saludo = "hola" + nombre + " " + apellido
 
